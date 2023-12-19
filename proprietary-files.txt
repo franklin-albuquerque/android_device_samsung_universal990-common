@@ -1,7 +1,8 @@
-# All unpinned blobs are from SIHWJD
-# Vendor security patch level 2023-11-01
+# All unpinned blobs are from UIHWH9
+# Vendor security patch level 2023-08-01
 
 # Audio
+vendor/etc/SoundBoosterParam.txt
 -vendor/lib/hw/audio.primary.exynos990.so
 -vendor/lib/hw/vendor.samsung.hardware.audio@1.0-impl.so
 -vendor/lib/libSamsungPostProcessConvertor.so
@@ -69,6 +70,7 @@ vendor/firmware/rxse.bin
 vendor/firmware/sb_ll.bin
 vendor/firmware/sb_music.bin
 vendor/firmware/sb_others.bin
+vendor/firmware/SoundBoosterParam.bin
 vendor/firmware/sv.bin
 vendor/firmware/txse1.bin
 vendor/firmware/txse2.bin
